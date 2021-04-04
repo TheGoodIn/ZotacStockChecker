@@ -1,0 +1,21 @@
+{
+  "name": "zotacstockchecker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "audio-loader": "^1.0.3",
+    "audio-play": "^2.3.1",
+    "dotenv": "^8.2.0",
+    "figlet": "^1.5.0",
+    "node-notifier": "^9.0.1",
+    "progress-bar": "^0.1.1",
+    "twilio": "^3.59.0",
+    "twit": "^2.2.11"
+  }
+}
