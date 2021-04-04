@@ -18,7 +18,7 @@ Perfect for Graphic Card Drops
 
 1st. You need to install [Node.js](https://nodejs.org/) v10+ to run.  <br>
 2nd. You need to signup for [Twitter Developer Program](https://developer.twitter.com/en) <br>
-3rd. You need to signup for [Twilio](www.twilio.com/referral/JVKbQ8) (Just use the free plan it comes with $15.50 dollars in credit) Follow these simple steps to make a number) https://www.twilio.com/docs/voice/quickstart/java  <br>
+3rd. You need to signup for [Twilio](https://www.twilio.com/referral/0uYYz8) (Just use the free plan it comes with $15.50 dollars in credit) Follow these simple steps to make a number) https://www.twilio.com/docs/voice/quickstart/java  <br>
 
 Next we are going to need to do 
 
