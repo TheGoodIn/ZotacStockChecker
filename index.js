@@ -68,8 +68,11 @@ stream.on('tweet', tweet => {
        const zotac = `${process.env.keyword}`
     
 
+       const card = `${process.env.GPU}`
+    
+
        
-       if (tweet.text.toLowerCase().includes(zotac.toLowerCase())){
+       if (tweet.text.toLowerCase().includes(zotac.toLowerCase()) && tweet.text.toLowerCase().includes(card.toLowerCase())){
 
         console.log('New Tweet Detected')
         load(`./${process.env.dropsound}`).then(play);
